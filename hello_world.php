@@ -7,6 +7,12 @@ class Student
 	{
 		echo "Hello world";
 	}
+
+	public function display_grade($grade)
+	{
+		return $grade;
+	}
+
 }
 
 
