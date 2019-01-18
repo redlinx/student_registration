@@ -20,4 +20,6 @@ class Student
 echo "Hello world";
 echo "My name is Marjun";
 
+echo "Added JV to the team";
+
 ?>
